@@ -22,7 +22,8 @@ I am a recent graduate with a **Bachelor's degree in Computer Science from Khonk
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pondsxp)
-![](https://github-readme-stats.vercel.app/api?username=pondsxp)
+ 
+<a href=""> ![](https://github-readme-stats.vercel.app/api?username=pondsxp)</a>
 
 ### Contact
 <a href="mailto:sarwut.p@kkumail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
