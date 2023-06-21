@@ -21,6 +21,7 @@ I am a recent graduate with a **Bachelor's degree in Computer Science from Khonk
 
 
 ### Stats
+<a href="https://wakatime.com/badge/github/pondsxp/pondsxp"><img src="https://wakatime.com/badge/github/pondsxp/pondsxp.svg" alt="wakatime"></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pondsxp)
  
 <a href=""> ![](https://github-readme-stats.vercel.app/api?username=pondsxp)</a>
