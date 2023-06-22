@@ -24,7 +24,7 @@ I am a recent graduate with a **Bachelor's degree in Computer Science from Khonk
 <a href="https://wakatime.com/badge/github/pondsxp/pondsxp"><img src="https://wakatime.com/badge/github/pondsxp/pondsxp.svg" alt="wakatime"></a> </br>
 <figure><embed src="https://wakatime.com/share/@b89c0b01-bc29-4d4a-8a11-4040375263c6/91f636d0-46b0-4707-8d31-486b417d2f16.svg"></embed></figure>
  
-<a href=""> ![](https://github-readme-stats.vercel.app/api?username=pondsxp)</a>
+<a href=""> ![](<figure><embed src="https://wakatime.com/share/@b89c0b01-bc29-4d4a-8a11-4040375263c6/bb283da5-2d98-4716-b007-68ca10d8b424.svg"></embed></figure>)</a>
 
 ### Contact
 <a href="mailto:sarwut.p@kkumail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
