@@ -1,7 +1,7 @@
 
 
 ### Hi, there 👋
-I am a recent graduate with a **Bachelor's degree in Computer Science from Khonkaen University**, seeking an entry-level position as a Front-end Developer. I have skills in Angular Framework, CSS, HTML, and I have 3 months of experience as a Front-end Developer. I look forward to applying my skills and continuing to grow in this field.
+I recently graduated in Computer Science from Khonkaen University. I've got some basic skills in Python, C#, HTML, CSS, and JavaScript, and I've dabbled in ASP.NET MVC. I'm super excited to put my skills to use and learn even more. I'm on the lookout for opportunities to contribute to cool software solutions while continuously growing in my field.
 
 #### Skills <a href="">
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
