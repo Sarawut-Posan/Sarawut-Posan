@@ -2,7 +2,7 @@
 
 
 ### Hi, there 👋
-I recently graduated in Computer Science from Khonkaen University. I've got some basic skills in Python, C#, HTML, CSS, and JavaScript, and I've dabbled in ASP.NET MVC. I'm super excited to put my skills to use and learn even more. I'm on the lookout for opportunities to contribute to cool software solutions while continuously growing in my field.
+I am graduated in Computer Science from Khonkaen University. I've got some basic skills in Python, C#, HTML, CSS, and JavaScript, and I've dabbled in ASP.NET MVC. I'm super excited to put my skills to use and learn even more. I'm on the lookout for opportunities to contribute to cool software solutions while continuously growing in my field.
 
 #### Skills 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
