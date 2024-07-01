@@ -21,7 +21,7 @@ I am graduated in Computer Science from Khonkaen University. I've got some basic
 <a href="">![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)</a>
 
 
-### Stats
+### Stat
 [![wakatime](https://wakatime.com/badge/user/b89c0b01-bc29-4d4a-8a11-4040375263c6.svg)](https://wakatime.com/@b89c0b01-bc29-4d4a-8a11-4040375263c6)
 ### Contact
 <a href="mailto:sarwut.p@kkumail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
